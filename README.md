@@ -198,3 +198,4 @@ curl -X DELETE http://localhost:3001/strings/racecar
 
 ### Deployment
 This API is deployed on Railway, use the link below to access It
+hng-task-one-production-cc7a.up.railway.app
